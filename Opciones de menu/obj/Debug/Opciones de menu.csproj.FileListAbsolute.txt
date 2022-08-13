@@ -1,0 +1,8 @@
+C:\Users\joser\source\repos\Opciones de menu\bin\Debug\Opciones de menu.exe.config
+C:\Users\joser\source\repos\Opciones de menu\bin\Debug\Opciones de menu.exe
+C:\Users\joser\source\repos\Opciones de menu\bin\Debug\Opciones de menu.pdb
+C:\Users\joser\source\repos\Opciones de menu\obj\Debug\Opciones de menu.csproj.AssemblyReference.cache
+C:\Users\joser\source\repos\Opciones de menu\obj\Debug\Opciones de menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\joser\source\repos\Opciones de menu\obj\Debug\Opciones de menu.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\Opciones de menu\obj\Debug\Opciones de menu.exe
+C:\Users\joser\source\repos\Opciones de menu\obj\Debug\Opciones de menu.pdb
